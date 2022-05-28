@@ -16,7 +16,6 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
- <a href="#lic">Licença</a> 
 </p> <br>
 
 <h2 id='objetivo'>Objetivo</h2> 
@@ -58,7 +57,6 @@
   * [git stash list](#24)
   * [git stash pop](#25)
   * [git stash pop stash@{}](#26)
-* [Licença](#lic)
 
 <h2 id='config-iniciais'>Configurações Iniciais</h2>
 <p> Os primeiros comandos gits destinam-se a configuração do email e usuário do git. A fim de identificar o responsável por modificações e  alterações do código.</p>
@@ -111,6 +109,3 @@
 | <p id='24'>`git stash list`</p> | Exibe os stashes. |
 | <p id='25'>`git stash pop`</p> | Retorna à última stash. |
 | <p id='26'>`git stash pop stash@{número da stash}` | Retorna à stash especificada. |
- 
-<h2 id='lic'> Licença </h2>
-<a href="https://github.com/amcarv1/beacademy-devstart-gitegithub/blob/main/LICENSE">MIT</a> © <a href="https://github.com/amcarv1">Erick Amorim</a>
