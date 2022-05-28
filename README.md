@@ -15,7 +15,7 @@
  
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#roadmap">Roadmap</a> 
 </p> <br>
 
 <h2 id='objetivo'>Objetivo</h2> 
